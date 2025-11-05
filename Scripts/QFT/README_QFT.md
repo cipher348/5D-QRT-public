@@ -80,3 +80,5 @@ Creative Commons Zero v1.0 Universal
 ## Contact
 
 For questions or collaboration, open an issue or contact Kai5.
+
+### Scripts created using Lumo AI (Proton)
