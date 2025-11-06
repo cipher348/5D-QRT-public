@@ -50,6 +50,6 @@ This folder contains a concise, validated workflow exploring the analytic backgr
 
 If using this code in published work, please cite or link to [cipher348/5D-QRT](https://github.com/cipher348/5D-QRT).
 
-**Authors & Maintainers:** [cipher348](https://github.com/cipher348)
+**Authors & Maintainers:** [cipher348](https://github.com/cipher348) (Kai5)
 
 ### Scripts created using Lumo AI (Proton)
