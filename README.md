@@ -1,6 +1,6 @@
 # The Joy Of Math: 5D-QRT-public
 
-[![DOI](https://zenodo.org/badge/1090494147.svg)](https://doi.org/10.5281/zenodo.17541627)
+### DOI 10.5281/zenodo.17541628
 
 Welcome to **5D-QRT-public**, a Python-powered exploration of advanced mathematical structures, resonance physics, spiral phase analysis, and discrete simulation. This repository is designed as a living compendium of theoretical, computational, and visual insights at the intersection of mathematics, physics, and complexity.
 
