@@ -70,13 +70,13 @@ See individual README files in subfolders for further guidance and scientific co
 
 ## ✍️ Citation
 
-If you use these scripts, theory, or results in published work, please **cite this repository** or credit [cipher348](https://github.com/cipher348).
+If you use these scripts, theory, or results in published work, please **cite this repository** or credit [cipher348](https://github.com/cipher348) (Kai5).
 
 ---
 
 ## 👤 Authors & Maintainers
 
-- [cipher348](https://github.com/cipher348)
+- [cipher348](https://github.com/cipher348) (Kai5)
 
 ---
 
