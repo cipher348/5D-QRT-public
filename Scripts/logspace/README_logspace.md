@@ -5,7 +5,7 @@
 ## Scripts Included
 
 ### 1. geometric_analysis.py
-> Focuses on advanced geometric or structural analysis, with v2 indicating an updated or improved methodology.
+> Focuses on advanced geometric or structural analysis, with improved methodology.
 
 ### 2. invariance_computation.py
 > Handles mathematical computations relating to invariance, essential in geometry and physical modeling.
