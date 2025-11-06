@@ -103,7 +103,7 @@ def pretty_float(x, sig=5):
 # 2. Verarbeitung aller CSV‑Dateien
 # ----------------------------------------------------------------------
 data_dir = pathlib.Path(".")
-csv_files = sorted(data_dir.glob("scan_report_*.csv"))
+csv_files = sorted(data_dir.glob("scan_report.csv"))
 
 summary = []   # sammelt Zeilen für die End‑Tabelle
 
