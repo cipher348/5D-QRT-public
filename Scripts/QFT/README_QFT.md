@@ -71,14 +71,16 @@ Visualizations (matplotlib plots) will display interactively; if running on a se
 
 ---
 
-## Citation and License
+## License
 
 Creative Commons Zero v1.0 Universal
 
 ---
 
-## Contact
+## Citation
 
-For questions or collaboration, open an issue or contact Kai5.
+If using this code in published work, please cite or link to [cipher348/5D-QRT](https://github.com/cipher348/5D-QRT).
+
+**Authors & Maintainers:** [cipher348](https://github.com/cipher348) (Kai5)
 
 ### Scripts created using Lumo AI (Proton)
