@@ -51,10 +51,8 @@ pip install numpy matplotlib pandas scipy seaborn
 
 ## Citation
 
-If you use this suite, please cite the repository and/or provide a link to the original source for scientific reproducibility.
+If using this code in published work, please cite or link to [cipher348/5D-QRT](https://github.com/cipher348/5D-QRT).
 
----
-
-**Folder maintained by [cipher348](https://github.com/cipher348), 2025**
+**Authors & Maintainers:** [cipher348](https://github.com/cipher348) (Kai5)
 
 ### Scripts created using Lumo AI (Proton)
