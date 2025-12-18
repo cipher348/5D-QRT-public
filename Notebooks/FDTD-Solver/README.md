@@ -74,5 +74,5 @@
 ### **In Short:**  
 This notebook is a **modular, high-performance FDTD solver** with **logarithmic spatial grid** capabilities, advanced boundaries, energy handling, and built-in tools for quantitative and graphical analysis of simulated electromagnetic wave phenomena. It serves as **infrastructure for further research or numerical method prototyping**, especially those dealing with log-scaled domains and precise EM energy tracking.  
 
-GitHub: github.com/cipher348  
-Zenodo: doi.org/10.5281/zenodo.17541628
+[GitHub: github.com/cipher348](https://github.com/cipher348)
+[Zenodo: doi.org/10.5281/zenodo.17541628](https://doi.org/10.5281/zenodo.17541628)
